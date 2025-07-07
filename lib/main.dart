@@ -28,7 +28,7 @@ class _SpongeBobRotationDemoState extends State<SpongeBobRotationDemo>
     super.initState();
 
     _controller = AnimationController(
-      duration: Duration(seconds: 60),
+      duration: Duration(seconds: 20),
       vsync: this,
     );
 
