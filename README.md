@@ -23,6 +23,7 @@ lib/
 └── main.dart
 assets/
 └── spongebob.webp
+└── Spongebob Rotation.png
 pubspec.yaml
 README.md
 
@@ -65,10 +66,11 @@ flutter run
 
 This project is open source and available under the MIT License.
 
-```
+
 
 ## Screenshot
 
-This project is open source and available under the MIT License.
+![SpongeBob Rotation Screenshot](assets/Spongebob%20Rotation.png)
+
 
 ```
